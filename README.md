@@ -1,2 +1,1 @@
-# smpviraldood
-smpviraldood
+# [smpviraldood](https://smpviraldood.pages.dev)
